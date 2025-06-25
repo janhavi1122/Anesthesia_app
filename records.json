@@ -1,0 +1,67 @@
+[
+    {
+        "timestamp": "2025-06-19 20:16:36.014319",
+        "raw_text": "hello",
+        "event": "Note"
+    },
+    {
+        "timestamp": "2025-06-19 20:16:41.791124",
+        "raw_text": "hello don't stop it",
+        "event": "Note"
+    },
+    {
+        "timestamp": "2025-06-19 20:16:49.721712",
+        "raw_text": "make a big paragraph of words",
+        "event": "Note"
+    },
+    {
+        "timestamp": "2025-06-19 20:22:18.119044",
+        "raw_text": "completed",
+        "event": "Note"
+    },
+    {
+        "timestamp": "2025-06-19 20:22:38.429936",
+        "raw_text": "data science machine learning deep learning NLP bootcamp the NIST cybersecurity Framework just got a major update on ott strategies five step for generator",
+        "event": "Note"
+    },
+    {
+        "timestamp": "2025-06-19 20:22:48.765072",
+        "raw_text": "are weak it is because they have been strong for too long",
+        "event": "Note"
+    },
+    {
+        "timestamp": "2025-06-19 20:24:22.015174",
+        "raw_text": "after hot summer months we can only wait for a rainy day the season of rain start from a month of June and it continues till August the first shower of rain wishes always our seeds of hot sunny days",
+        "event": "Note"
+    },
+    {
+        "timestamp": "2025-06-19 20:24:31.646765",
+        "raw_text": "always School remain closed on rainy day normal",
+        "event": "Note"
+    },
+    {
+        "timestamp": "2025-06-19 20:24:48.636819",
+        "raw_text": "after a hot Sunny Ray",
+        "event": "Note"
+    },
+    {
+        "timestamp": "2025-06-19 20:26:42.758133",
+        "raw_text": "anaesthesia start at 1539 end on 1234 exit",
+        "event": "Note"
+    },
+    {
+        "timestamp": "2025-06-19 21:29:41.171115",
+        "raw_text": "Sorry, could not understand.",
+        "event": "Note"
+    },
+    {
+        "timestamp": "2025-06-19 21:54:41.841287",
+        "raw_text": "AI article written build on chat GPT enhance customer process up to five at least to do it",
+        "event": "Note"
+    },
+    {
+        "timestamp": "2025-06-19 21:55:09.613469",
+        "raw_text": "article writer built on",
+        "event": "Note"
+    }
+]
