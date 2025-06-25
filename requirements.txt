@@ -1,0 +1,8 @@
+streamlit
+SpeechRecognition
+fpdf
+PyPDF2
+openai
+whisper
+sounddevice
+scipy
